@@ -1,4 +1,4 @@
-# playing **hide and seek**
+# *playing* hide and seek
 
 > doxx yourself with discord rich presence
 
